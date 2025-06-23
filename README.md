@@ -9,12 +9,20 @@ Um aplicativo web simples para criar notas em uma conta pessoal, desenvolvido co
 - Navegação web completa
 - Adicionar novas notas e excluir à vontade!
 - Notas com título e descrição -> **funcionalidade autoral**
-- Armazenamento local com SQL
+- Armazenamento local com SQLite
 
 ## 🛠 Tecnologias utilizadas
 
 - [Python 3.12](https://www.python.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [SQLite](https://www.sqlite.org/)
-- HTML5 + CSS3 (com Bootstrap opcional)
+- [Jinja](https://jinja.palletsprojects.com/en/stable/)
+- HTML5 e CSS3 (com Bootstrap)
 
+## 🖼️ Imagens
+
+<br>
+
+<img alt="Página de notas" height="500" src="assets/notes.png"/>
+<img alt="Página de login" height="500" src="assets/login.png"/>
+<img alt="Página de cadastro" height="500" src="assets/signup.png"/>
