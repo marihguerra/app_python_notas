@@ -4,4 +4,3 @@ instance/mydatabase.db
 instance/*.db
 *.db
 mydatabase.db
-assets/
