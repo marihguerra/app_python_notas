@@ -1,3 +1,6 @@
 .idea/
 website/__pycache__
+instance/mydatabase.db
+instance/*.db
 *.db
+mydatabase.db
