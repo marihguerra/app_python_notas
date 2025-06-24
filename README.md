@@ -1,6 +1,6 @@
 # 📝 Python Notes App
 
-Um aplicativo web simples para criar notas em uma conta pessoal, desenvolvido com **Python** e **Flask**.
+Um aplicativo web simples para criar e armazenar notas em uma conta pessoal, desenvolvido com **Python** e **Flask**.
 <br>Inspirado no vídeo do canal do Youtube Tech With Tim - https://www.youtube.com/watch?v=dam0GPOAvVI&t=535s 🖥️
 
 ## 🚀 Funcionalidades
