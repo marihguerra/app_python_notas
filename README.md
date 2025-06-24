@@ -24,5 +24,5 @@ Um aplicativo web simples para criar notas em uma conta pessoal, desenvolvido co
 <br>
 
 <img alt="Página de notas" max-width="auto" src="assets/notes.png"/>
-<img alt="Página de login" height="200" src="assets/login.png"/>
-<img alt="Página de cadastro" height="200" src="assets/signup.png"/>
+<img alt="Página de login" max-width="auto" src="assets/login.png"/>
+<img alt="Página de cadastro" max-width="auto" src="assets/signup.png"/>
